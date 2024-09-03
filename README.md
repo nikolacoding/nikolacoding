@@ -1,4 +1,4 @@
-<h3 align="center">An apiring software engineer studying @ Faculty of Electrical Engineering, Banja Luka</h3>
+<h3 align="center">An aspiring software engineer studying @ Faculty of Electrical Engineering, Banja Luka</h3>
 
 <h3 align="left">Social:</h3>
 <p align="left">
